@@ -5,7 +5,8 @@
 
 With this project we want to investigate how, and how much code smells
 impact on a system, and which are their effects on non-functional requirements.
-It is really worth to invest on research about code smell for a company? And
-again, mayor developer companies are really interested about code smells? In
-order to achieve our goal, we will review many scientifc research and surveys in
+In which way a Code Smell Impact on NFAs? 
+How the connection between code smells and NFAs was determined? 
+Are all code smells impactful on NFAs? 
+In order to achieve our goal, we will review many scientifc research and surveys in
 literature and try to answer to our questions.
